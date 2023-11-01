@@ -1,0 +1,13 @@
+[package]
+name = "lemc"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.32.3"
+num-traits = "0.2.17"
+anyhow = "1.0.75"
+byteorder = "1.5.0"
+ply-rs = "0.1.3"
